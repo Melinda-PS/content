@@ -22,8 +22,6 @@ Edit
 python app.py
 Open the provided local URL in your browser to try the image content generator.
 
-🌐 Try it live!
-👉 [Check out the live Space here](https://huggingface.co/spaces/leo11000/content)
 
 📚 Configuration Reference
 For detailed configuration options, visit the Gradio Spaces config reference.
